@@ -13,5 +13,5 @@ git clone https://github.com/Ben-893/JavaScript-Math-App
 
 * A prompt will appear and ask the user to type in a number, followed by a second prompt asking the user for a second number
 
-* The app will **add**, **multiply**, **divide**, and **subtract** the values the user provided, and display the results
+* The app will add, multiply, divide, and subtract the values the user provided, and display the results
 ```
